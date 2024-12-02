@@ -1,4 +1,4 @@
-file = open("C:/Users/cools/OneDrive/Documents/aoc2024/day1/input.txt","r")
+file = open("day1/testin.txt","r")
 lines = [line.rstrip().split(" ") for line in file]
 llist = []
 rlist = []
